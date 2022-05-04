@@ -18,6 +18,9 @@
     margin-left: 32px;
     font-size: 18px;
 }
+.hero {
+    display: flex;
+}
 .hero-left {
     background-color: #1f2937; 
     padding-left: 100px;
@@ -26,6 +29,7 @@
 .hero-text {
     font-size: 48px;
     color:#F9faf8;
+
 }
 .hero-subtext {
     color: #e5e7eb;
@@ -33,4 +37,9 @@
 }
 .button {
     background-color: #3882f6;
+}
+.hero-right {
+    background-color: #1f2937; 
+    padding-left: 100px;
+    padding-right: 100px;
 }
