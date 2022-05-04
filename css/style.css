@@ -20,11 +20,15 @@
 }
 .hero {
     display: flex;
-}
-.hero-left {
     background-color: #1f2937; 
     padding-left: 100px;
     padding-right: 100px;
+   
+}
+.hero-left {
+  width: 400px;
+  height: 190px;
+   
 }
 .hero-text {
     font-size: 48px;
@@ -39,7 +43,6 @@
     background-color: #3882f6;
 }
 .hero-right {
-    background-color: #1f2937; 
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 400px;
+    height: 190px;
 }
