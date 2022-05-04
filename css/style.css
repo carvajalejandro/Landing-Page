@@ -1,15 +1,20 @@
 .header {
     background-color: #1f2937; 
     display: flex;
-    justify-content: right;
+    padding-left: 100px;
+    padding-right: 100px;
+   
 }
 .header-logo {
-    justify-content: left;
-    color:#F9faf8
-
-
+    color:#F9faf8;
+    margin-right: auto;
+    font-size: 24px;
+  
+   
 }
 .link {
-    justify-content:right;
-    color:#F9faf8
+    color: #e5e7eb;;
+    margin-left: 32px;
+    font-size: 18px;
+    
 }
