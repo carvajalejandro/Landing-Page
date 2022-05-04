@@ -1,4 +1,14 @@
 .header {
-    background: color #1f2937; 
+    background-color: #1f2937; 
     display: flex;
+    justify-content: space-between;
+}
+.header-logo {
+    justify-content: left;
+    color:#F9faf8
+
+}
+.link {
+    justify-content: right;
+    color:#F9faf8
 }
