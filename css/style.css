@@ -51,15 +51,17 @@
    
 }
 .hero-right {
+    display: flex;
     width: 600px;
     height: 190px;
     background-color:	#C0C0C0;
-  
-}
-.image {
-    text-align: center;
     align-items: center;
     justify-content: center;
+}
+.image {
+    height: 20px;
+   justify-content: center;
+    color: #F9faf8;
 
 }
 .info {
