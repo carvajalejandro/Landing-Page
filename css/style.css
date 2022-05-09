@@ -64,6 +64,8 @@
     justify-content: center;
 }
 .info {
+    padding-left: 100px;
+    padding-right: 100px;
 
 }
 .info-text {
@@ -93,5 +95,5 @@
 .text{
     display: flex;
     font-size: 18px;
-    justify-content: space-between
+    justify-content: space-around;
 }
