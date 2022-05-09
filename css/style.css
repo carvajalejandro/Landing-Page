@@ -90,3 +90,8 @@
     width: 200px;
     height: 155px;
 }
+.text{
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between
+}
