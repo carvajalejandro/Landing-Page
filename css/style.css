@@ -24,16 +24,18 @@
     padding-right: 100px;
     height: 300px; 
     justify-content: space-between;
+    margin-bottom: 10px;
+    
 }
 .hero-left {
+  display:flex;
+  flex-direction: column;
   width: 400px;
-  height: 190px;
-   
+  height: 190px;  
 }
 .hero-text {
     font-size: 48px;
     color:#F9faf8;
-
 }
 .hero-subtext {
     color: #e5e7eb;
@@ -47,8 +49,6 @@
     width: 100px;
     margin-top: 10px;
     text-align: center;
-  
-   
 }
 .hero-right {
     display: flex;
@@ -57,17 +57,29 @@
     background-color:	#C0C0C0;
     align-items: center;
     justify-content: center;
+    
 }
 .image {
     height: 20px;
-   justify-content: center;
-    color: #F9faf8;
-
+    justify-content: center;
+   color: #F9faf8;
 }
 .info {
-    display: 
+
+}
+.info-text {
+    font-size: 36px;
+   font-weight: bold;
+   text-align: center;
+   margin-bottom: 50px;
+    
+}
+.boxes {
+    display: flex;
+    justify-content: space-between;
 }
 .box {
+    
     border-radius: 15px;
     background: #73AD21;
     padding: 20px;
