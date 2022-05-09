@@ -62,7 +62,6 @@
 .image {
     height: 20px;
     justify-content: center;
-   color: #F9faf8;
 }
 .info {
 
@@ -79,10 +78,15 @@
     justify-content: space-between;
 }
 .box {
-    
     border-radius: 15px;
-    background: #73AD21;
+    background: #3882f6;
     padding: 20px;
     width: 200px;
     height: 150px;
+}
+.small-box{
+    border-radius: 15px;
+    background: white;
+    width: 200px;
+    height: 155px;
 }
