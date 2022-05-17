@@ -133,20 +133,27 @@
 }
 .footer{
     margin-top: 10px;
-    background-color: #F9faf8;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    
 }
 .footer-box{
-    background-color: #3882f6;
+    background: #3882f6;
+    border-radius: 15px;
+    height: 100px;
+    width: 5000px;
+    align-items: center;
+    padding-left: 100px;
     
 }
 .call {
+display: flex;
 
 }
 .footer-text{
     display: flex;
 }
-.footer-button{
+.footer-flex{
     display: flex;
 }
