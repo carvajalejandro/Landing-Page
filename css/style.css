@@ -87,7 +87,7 @@
 }
 .box {
     border-radius: 15px;
-    background: #3882f6;
+    border: 2px solid #3882f6;
     padding: 20px;
     width: 200px;
     height: 150px;
@@ -162,7 +162,7 @@ display: flex;
     justify-content: space-between;
 }
 .footer-button {
-    border: 1px solid #F9faf8;;
+    border: 2px solid #F9faf8;;
     border-radius: 5px;
     width: 100px;
     justify-content: center;
