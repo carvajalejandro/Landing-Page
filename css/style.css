@@ -161,8 +161,10 @@ display: flex;
     display: flex;
     justify-content: space-between;
 }
-.sign {
-    border-radius: 15px;
-    border-color: #e5e7eb;
-    border-width: 10px;
+.footer-button {
+    border: 1px solid #F9faf8;;
+    border-radius: 5px;
+    width: 100px;
+    justify-content: center;
+    text-align: center;
 }
