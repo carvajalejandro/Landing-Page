@@ -1,5 +1,6 @@
 *, html {
     margin:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .header {
     background-color: #1f2937; 
@@ -143,17 +144,20 @@
     border-radius: 15px;
     height: 100px;
     width: 5000px;
-    align-items: center;
     padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    align-items:flex-end;
+    color:#F9faf8;
     
 }
 .call {
 display: flex;
-
 }
 .footer-text{
     display: flex;
 }
 .footer-flex{
     display: flex;
+    justify-content: space-between;
 }
