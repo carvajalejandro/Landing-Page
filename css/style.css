@@ -88,21 +88,18 @@
 .box {
     border-radius: 15px;
     border: 2px solid #3882f6;
-    padding: 20px;
     width: 200px;
     height: 150px;
 }
 .text{
     display: flex;
     font-size: 18px;
-    padding-left: 50px;
-    padding-right: 50px;
-   justify-content: space-around
-    
+   justify-content: space-evenly
 }
-.sub-text{
-   
-   
+.sub-text {
+    width: 200px;
+    text-align: center;
+    
 }
 .quote{
     background-color: #e5e7eb;
