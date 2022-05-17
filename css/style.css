@@ -154,10 +154,15 @@
 .call {
 display: flex;
 }
-.footer-text{
+.footer-text {
     display: flex;
 }
-.footer-flex{
+.footer-flex {
     display: flex;
     justify-content: space-between;
+}
+.sign {
+    border-radius: 15px;
+    border-color: #e5e7eb;
+    border-width: 10px;
 }
